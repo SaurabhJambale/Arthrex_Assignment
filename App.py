@@ -1,10 +1,7 @@
 
 from LoggerModule import *
 
-
-
 My_logger_obj=MyLogger()
-
 
 def add (a,b):
     try:
