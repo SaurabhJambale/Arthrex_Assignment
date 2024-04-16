@@ -11,7 +11,7 @@
 
 # Approach used to solve the problem
   + First created a custom logger module using python's built in logging library
-  +  change the level og logger to DEBUG
+  +  change the level of logger to DEBUG
   +  created handler to handle demo.log file
   +  created formatter to generate log according to given format
   +  created two functions in App.py file, add and divide
