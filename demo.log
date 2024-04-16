@@ -1,0 +1,285 @@
+2024-04-15 13:41:32,064 | ERROR | LoggerModule.py | divide | 14748 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\LoggerModule.py", line 32, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-15 14:08:39,653 | INFO | LoggerModule.py | divide | 12140 | Dividing 3 by 8
+2024-04-15 14:09:01,378 | INFO | LoggerModule.py | divide | 6828 | Dividing 5 by 8
+2024-04-15 14:09:01,378 | INFO | LoggerModule.py | add | 6828 | Adding 4 and 5
+2024-04-15 14:09:36,498 | ERROR | LoggerModule.py | divide | 15948 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\LoggerModule.py", line 32, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-15 14:09:36,512 | INFO | LoggerModule.py | add | 15948 | Adding 4 and 5
+2024-04-15 17:42:47,738 | INFO | App.py | divide | 12332 | Dividing 5 by 7
+2024-04-15 17:42:47,739 | INFO | App.py | add | 12332 | Adding 4 and 8
+2024-04-15 17:42:57,566 | INFO | App.py | divide | 4000 | Dividing 5 by 7
+2024-04-15 17:42:57,568 | INFO | App.py | add | 4000 | Adding 4 and 8
+2024-04-16 06:16:17,761 | INFO | App.py | divide | 15268 | Dividing 5 by 7
+2024-04-16 06:16:17,762 | INFO | App.py | add | 15268 | Adding 4 and 8
+2024-04-16 06:16:17,762 | INFO | App.py | add | 15268 | Adding 4 and 10
+2024-04-16 06:19:44,009 | INFO | App.py | divide | 4128 | Dividing 5 by 7
+2024-04-16 06:19:44,009 | INFO | App.py | add | 4128 | Adding 4 and 8
+2024-04-16 06:19:44,044 | INFO | App.py | add | 4128 | Adding 10 and 15
+2024-04-16 06:20:02,246 | INFO | App.py | divide | 14180 | Dividing 5 by 7
+2024-04-16 06:20:02,246 | INFO | App.py | add | 14180 | Adding 4 and 8
+2024-04-16 06:20:02,251 | INFO | App.py | add | 14180 | Adding 10 and 15
+2024-04-16 06:29:52,871 | INFO | App.py | divide | 7504 | Dividing 5 by 7
+2024-04-16 06:29:52,872 | INFO | App.py | add | 7504 | Adding 4 and 8
+2024-04-16 06:29:52,875 | INFO | App.py | divide | 7504 | Dividing 6 by 2
+2024-04-16 06:29:52,876 | INFO | App.py | add | 7504 | Adding 10 and 15
+2024-04-16 06:31:37,870 | INFO | App.py | divide | 15016 | Dividing 5 by 7
+2024-04-16 06:31:37,870 | INFO | App.py | add | 15016 | Adding 4 and 8
+2024-04-16 06:31:37,874 | INFO | App.py | divide | 15016 | Dividing 6 by 2
+2024-04-16 06:31:37,875 | ERROR | App.py | divide | 15016 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:31:37,876 | INFO | App.py | add | 15016 | Adding 10 and 15
+2024-04-16 06:31:52,113 | INFO | App.py | divide | 2892 | Dividing 5 by 7
+2024-04-16 06:31:52,114 | INFO | App.py | add | 2892 | Adding 4 and 8
+2024-04-16 06:31:52,118 | ERROR | App.py | divide | 2892 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:32:02,452 | INFO | App.py | divide | 9372 | Dividing 5 by 7
+2024-04-16 06:32:02,453 | INFO | App.py | add | 9372 | Adding 4 and 8
+2024-04-16 06:32:02,456 | ERROR | App.py | divide | 9372 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:32:54,233 | INFO | App.py | divide | 6464 | Dividing 5 by 7
+2024-04-16 06:32:54,234 | INFO | App.py | add | 6464 | Adding 4 and 8
+2024-04-16 06:32:54,239 | INFO | App.py | divide | 6464 | Dividing 6 by 2
+2024-04-16 06:32:54,240 | ERROR | App.py | divide | 6464 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:32:54,241 | ERROR | App.py | divide | 6464 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 06:32:54,242 | INFO | App.py | add | 6464 | Adding 10 and 15
+2024-04-16 06:33:00,758 | INFO | App.py | divide | 14708 | Dividing 5 by 7
+2024-04-16 06:33:00,758 | INFO | App.py | add | 14708 | Adding 4 and 8
+2024-04-16 06:33:00,762 | ERROR | App.py | divide | 14708 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:33:00,763 | ERROR | App.py | divide | 14708 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 06:33:08,576 | INFO | App.py | divide | 14180 | Dividing 5 by 7
+2024-04-16 06:33:08,577 | INFO | App.py | add | 14180 | Adding 4 and 8
+2024-04-16 06:33:08,581 | ERROR | App.py | divide | 14180 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:33:08,582 | ERROR | App.py | divide | 14180 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 06:33:37,589 | INFO | App.py | divide | 152 | Dividing 5 by 7
+2024-04-16 06:33:37,590 | INFO | App.py | add | 152 | Adding 4 and 8
+2024-04-16 06:33:37,594 | INFO | App.py | divide | 152 | Dividing 6 by 2
+2024-04-16 06:33:37,595 | ERROR | App.py | divide | 152 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:33:37,596 | ERROR | App.py | divide | 152 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 06:33:37,596 | ERROR | App.py | add | 152 | unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 11, in add
+    c=a+b
+      ~^~
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2024-04-16 06:33:37,597 | INFO | App.py | add | 152 | Adding 10 and 15
+2024-04-16 06:57:45,775 | INFO | App.py | divide | 4540 | Dividing 5 by 7
+2024-04-16 06:57:45,776 | INFO | App.py | add | 4540 | Adding 4 and 8
+2024-04-16 06:57:45,779 | INFO | App.py | add | 4540 | Adding 10 and 20
+2024-04-16 06:57:45,780 | INFO | App.py | divide | 4540 | Dividing 6 by 2
+2024-04-16 06:57:45,781 | ERROR | App.py | divide | 4540 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:57:45,781 | ERROR | App.py | divide | 4540 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 06:57:45,783 | ERROR | App.py | add | 4540 | unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 11, in add
+    c=a+b
+      ~^~
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2024-04-16 06:57:45,784 | INFO | App.py | add | 4540 | Adding 10 and 15
+2024-04-16 06:57:52,240 | INFO | App.py | divide | 1508 | Dividing 5 by 7
+2024-04-16 06:57:52,240 | INFO | App.py | add | 1508 | Adding 4 and 8
+2024-04-16 06:57:52,245 | INFO | App.py | add | 1508 | Adding 10 and 20
+2024-04-16 06:58:06,579 | INFO | App.py | divide | 7440 | Dividing 5 by 7
+2024-04-16 06:58:06,580 | INFO | App.py | add | 7440 | Adding 4 and 8
+2024-04-16 06:58:06,584 | INFO | App.py | add | 7440 | Adding 10 and 20
+2024-04-16 06:58:24,780 | INFO | App.py | divide | 8048 | Dividing 5 by 7
+2024-04-16 06:58:24,781 | INFO | App.py | add | 8048 | Adding 4 and 8
+2024-04-16 06:58:24,785 | INFO | App.py | add | 8048 | Adding 10 and 20
+2024-04-16 06:58:24,786 | INFO | App.py | divide | 8048 | Dividing 6 by 2
+2024-04-16 06:58:24,786 | ERROR | App.py | divide | 8048 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:58:24,787 | ERROR | App.py | divide | 8048 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 06:58:24,788 | ERROR | App.py | add | 8048 | unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 11, in add
+    c=a+b
+      ~^~
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2024-04-16 06:58:24,789 | INFO | App.py | add | 8048 | Adding 10 and 15
+2024-04-16 06:58:30,230 | INFO | App.py | divide | 15264 | Dividing 5 by 7
+2024-04-16 06:58:30,230 | INFO | App.py | add | 15264 | Adding 4 and 8
+2024-04-16 06:58:30,235 | INFO | App.py | add | 15264 | Adding 10 and 20
+2024-04-16 06:58:42,635 | INFO | App.py | divide | 14304 | Dividing 5 by 7
+2024-04-16 06:58:42,635 | INFO | App.py | add | 14304 | Adding 4 and 8
+2024-04-16 06:58:42,638 | INFO | App.py | add | 14304 | Adding 10 and 20
+2024-04-16 06:58:42,640 | INFO | App.py | divide | 14304 | Dividing 6 by 2
+2024-04-16 06:58:42,640 | ERROR | App.py | divide | 14304 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 06:58:42,641 | ERROR | App.py | divide | 14304 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 06:58:42,642 | ERROR | App.py | add | 14304 | unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 11, in add
+    c=a+b
+      ~^~
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2024-04-16 06:58:42,642 | INFO | App.py | add | 14304 | Adding 10 and 15
+2024-04-16 07:00:08,754 | INFO | App.py | divide | 14288 | Dividing 5 by 7
+2024-04-16 07:00:08,756 | INFO | App.py | add | 14288 | Adding 4 and 8
+2024-04-16 07:00:08,759 | INFO | App.py | add | 14288 | Adding 10 and 20
+2024-04-16 07:00:08,759 | INFO | App.py | divide | 14288 | Dividing 10 by 20
+2024-04-16 07:00:08,760 | INFO | App.py | divide | 14288 | Dividing 6 by 2
+2024-04-16 07:00:08,760 | ERROR | App.py | divide | 14288 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 07:00:08,762 | ERROR | App.py | divide | 14288 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 07:00:08,763 | ERROR | App.py | add | 14288 | unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 11, in add
+    c=a+b
+      ~^~
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2024-04-16 07:00:08,764 | INFO | App.py | add | 14288 | Adding 10 and 15
+2024-04-16 07:00:20,855 | INFO | App.py | divide | 4000 | Dividing 5 by 7
+2024-04-16 07:00:20,855 | INFO | App.py | add | 4000 | Adding 4 and 8
+2024-04-16 07:00:20,859 | INFO | App.py | add | 4000 | Adding 10 and 20
+2024-04-16 07:00:20,860 | INFO | App.py | divide | 4000 | Dividing 10 by 20
+2024-04-16 07:00:20,863 | INFO | App.py | divide | 4000 | Dividing 6 by 2
+2024-04-16 07:00:20,864 | ERROR | App.py | divide | 4000 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 07:00:20,865 | ERROR | App.py | divide | 4000 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 07:00:20,865 | ERROR | App.py | add | 4000 | unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 11, in add
+    c=a+b
+      ~^~
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2024-04-16 07:00:20,866 | INFO | App.py | add | 4000 | Adding 10 and 15
+2024-04-16 07:00:42,446 | INFO | App.py | divide | 10264 | Dividing 5 by 7
+2024-04-16 07:00:42,447 | INFO | App.py | add | 10264 | Adding 4 and 8
+2024-04-16 07:00:42,451 | INFO | App.py | add | 10264 | Adding 10 and 20
+2024-04-16 07:00:42,451 | INFO | App.py | divide | 10264 | Dividing 10 by 20
+2024-04-16 07:00:49,992 | INFO | App.py | divide | 1872 | Dividing 5 by 7
+2024-04-16 07:00:49,992 | INFO | App.py | add | 1872 | Adding 4 and 8
+2024-04-16 07:00:49,996 | INFO | App.py | add | 1872 | Adding 10 and 20
+2024-04-16 07:00:49,996 | INFO | App.py | divide | 1872 | Dividing 10 by 20
+2024-04-16 07:00:56,918 | INFO | App.py | divide | 15224 | Dividing 5 by 7
+2024-04-16 07:00:56,918 | INFO | App.py | add | 15224 | Adding 4 and 8
+2024-04-16 07:00:56,923 | INFO | App.py | add | 15224 | Adding 10 and 20
+2024-04-16 07:00:56,924 | INFO | App.py | divide | 15224 | Dividing 10 by 20
+2024-04-16 07:00:56,925 | INFO | App.py | divide | 15224 | Dividing 6 by 2
+2024-04-16 07:00:56,925 | ERROR | App.py | divide | 15224 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+2024-04-16 07:00:56,926 | ERROR | App.py | divide | 15224 | unsupported operand type(s) for /: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 19, in divide
+    c=a/b
+      ~^~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-04-16 07:00:56,927 | ERROR | App.py | add | 15224 | unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "C:\Users\rutul\PycharmProjects\Internship_Assignment\App.py", line 11, in add
+    c=a+b
+      ~^~
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2024-04-16 07:00:56,928 | INFO | App.py | add | 15224 | Adding 10 and 15
+2024-04-16 07:05:54,291 | INFO | App.py | divide | 9940 | Dividing 5 by 7
+2024-04-16 07:05:54,291 | INFO | App.py | add | 9940 | Adding 4 and 8
